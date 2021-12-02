@@ -1,2 +1,3 @@
 GitInitVersion
 Branch sprint1Step1 commit1
+Branch sprint1Step1 commit2
